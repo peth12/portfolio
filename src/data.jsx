@@ -66,9 +66,9 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: 'todolist.jpg',
-    url: 'https://todo-list-test-peth.netlify.app/',
-    github: 'https://github.com/peth12/todo-list-html',
-    title: 'Todo lIst pure javascript',
+    img: 'food.jpg',
+    url: 'https://clone-food-web.vercel.app/',
+    github: 'https://github.com/peth12/clone-food-web',
+    title: 'clone-food-web',
   },
 ];
